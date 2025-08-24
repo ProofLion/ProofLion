@@ -8,15 +8,16 @@
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](#https://www.linkedin.com/in/evanmohan/)  
+- [LinkedIn](https://www.linkedin.com/in/evanmohan/)
+- [Email](mailto:edmohan@icloud.com)  
 
 ---
 
 ## 🚀 Featured Projects
 Here are a few projects I’ve been working on:
 
-- **[SkillSwap](#https://github.com/annika-polavarapu/skill-swap)** – A platform connecting students to exchange skills and knowledge.  
-- **[SRL Rocket Club](#https://cusrl.com/)** – Contributed to software for embedded flight systems.  
+- **[SkillSwap](https://github.com/annika-polavarapu/skill-swap)** – A platform connecting students to exchange skills and knowledge.  
+- **[SRL Rocket Club](https://cusrl.com/)** – Contributed to software for embedded flight systems.  
 
 ---
 
